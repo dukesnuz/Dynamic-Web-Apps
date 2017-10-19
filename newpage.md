@@ -5,4 +5,4 @@ Some text here.
 
 #### An image
 
-![a goosw}(http://dukesnuz.com/d/artgallery/images/gease_beach.jpg)
+![a goose](http://dukesnuz.com/d/artgallery/images/gease_beach.jpg)
