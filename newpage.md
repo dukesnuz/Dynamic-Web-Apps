@@ -1,8 +1,8 @@
-### New link
-[p3](http://www.p3.dukesnuz.com)
+### A Link Example
+[p3](http://p3.dukesnuz.com)
 
 Some text here.
 
-#### An image
+#### An Image Example
 
 ![a goose](http://dukesnuz.com/d/artgallery/images/gease_beach.jpg)
