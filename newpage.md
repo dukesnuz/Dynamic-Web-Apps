@@ -1,1 +1,2 @@
-[p3](http://p3.com)
+# New link
+[p3](http://www.p3.dukesnuz.com)
