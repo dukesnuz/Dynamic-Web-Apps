@@ -20,7 +20,8 @@ c:/mamp/bin/apache/conf/extra/httpd-vhosts.conf
 
  Add
  
-```<VirtualHost *:80>
+```
+<VirtualHost *:80>
     ServerName domain.loc
     DocumentRoot c:/mamp/htdocs/newfolder
     <Directory c:/mamp/htdocs/newfolder>
@@ -30,8 +31,9 @@ c:/mamp/bin/apache/conf/extra/httpd-vhosts.conf
         allow from all
     </Directory>
 </VirtualHost>
-
+```
 For localhost
+```
 <VirtualHost *:80>
     ServerName localhost
     DocumentRoot c:/MAMP/htdocs/
@@ -42,3 +44,4 @@ For localhost
         allow from all
     </Directory>
 </VirtualHost>
+```
