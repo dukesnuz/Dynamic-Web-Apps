@@ -13,12 +13,14 @@ Include conf/extra/httpd-vhosts.conf
 
 2) Create a new host (For each Domain)
 Windows: c:/Windows/System32/drivers/etc/hosts
-add to bottome >>> 127.0.0.1 domain.loc
+add to bottom >>> 127.0.0.1 domain.loc
 
 3) Virtual host entry (For eaxh domain)
 c:/mamp/bin/apache/conf/extra/httpd-vhosts.conf
+
  Add
- ```<VirtualHost *:80>
+ 
+```<VirtualHost *:80>
     ServerName domain.loc
     DocumentRoot c:/mamp/htdocs/newfolder
     <Directory c:/mamp/htdocs/newfolder>
@@ -27,10 +29,10 @@ c:/mamp/bin/apache/conf/extra/httpd-vhosts.conf
         Order allow,deny
         allow from all
     </Directory>
-</VirtualHost>```
+</VirtualHost>
 
 For localhost
-```<VirtualHost *:80>
+<VirtualHost *:80>
     ServerName localhost
     DocumentRoot c:/MAMP/htdocs/
     <Directory c:/MAMP/htdocs/>
@@ -39,4 +41,4 @@ For localhost
         Order allow,deny
         allow from all
     </Directory>
-</VirtualHost>```
+</VirtualHost>
