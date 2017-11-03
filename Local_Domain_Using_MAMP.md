@@ -39,3 +39,5 @@ For localhost
     </Directory>
 </VirtualHost>
 ```
+
+[Debugging local server](https://github.com/susanBuck/dwa15-fall2017/blob/master/01_Servers_and_Git/02_Debugging_local_servers.md)
