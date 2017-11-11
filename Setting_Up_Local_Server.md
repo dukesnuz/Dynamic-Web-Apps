@@ -10,8 +10,8 @@
 4 [Error Reporting and PHP config](https://github.com/susanBuck/dwa15-fall2017/blob/master/02_PHP/02_Error_reporting_and_PHP_config.md)
 
 5. [PATH_Variable](https://github.com/susanBuck/dwa15-fall2017/blob/master/00_Command_Line/99_Extras/PATH_Variable.md)
-  my path = c:\mamp\bin\php\php7.1.5\
- 
+   my path = c:\mamp\bin\php\php7.1.5
+    
 6. [migrations](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/25_Migrations.md)
 
 7. [seeders class notes](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/29_Seeders.md)
