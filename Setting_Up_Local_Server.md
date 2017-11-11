@@ -1,4 +1,4 @@
-## Notes for installing a local server. Set up and settings we have changed in class.
+## Installing a local server, migrations, seeders. Set up and settings we have changed in class.
 
 1 [Setup local server](https://github.com/susanBuck/dwa15-fall2017/blob/master/01_Servers_and_Git/01_Setup_local_server.md)
 
@@ -11,3 +11,9 @@
 
 4. [PATH_Variable](https://github.com/susanBuck/dwa15-fall2017/blob/master/00_Command_Line/99_Extras/PATH_Variable.md)
   my path = c:\mamp\bin\php\php7.1.5\
+ 
+5. [migrations](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/25_Migrations.md)
+
+6. [seeders class notes](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/29_Seeders.md)
+
+7. [seeders generating dummy data](https://github.com/susanBuck/dwa15-fall2017/issues/139)
