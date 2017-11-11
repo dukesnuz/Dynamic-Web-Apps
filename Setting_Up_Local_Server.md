@@ -7,13 +7,13 @@
 3 [Code Editors](https://github.com/susanBuck/dwa15-fall2017/blob/master/02_PHP/99_Code_editors.md)
   my autocomplete-php path = c:\mamp\bin\php\php7.1.5\php.exe
 
-3 [Error Reporting and PHP config](https://github.com/susanBuck/dwa15-fall2017/blob/master/02_PHP/02_Error_reporting_and_PHP_config.md)
+4 [Error Reporting and PHP config](https://github.com/susanBuck/dwa15-fall2017/blob/master/02_PHP/02_Error_reporting_and_PHP_config.md)
 
-4. [PATH_Variable](https://github.com/susanBuck/dwa15-fall2017/blob/master/00_Command_Line/99_Extras/PATH_Variable.md)
+5. [PATH_Variable](https://github.com/susanBuck/dwa15-fall2017/blob/master/00_Command_Line/99_Extras/PATH_Variable.md)
   my path = c:\mamp\bin\php\php7.1.5\
  
-5. [migrations](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/25_Migrations.md)
+6. [migrations](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/25_Migrations.md)
 
-6. [seeders class notes](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/29_Seeders.md)
+7. [seeders class notes](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/29_Seeders.md)
 
-7. [seeders generating dummy data](https://github.com/susanBuck/dwa15-fall2017/issues/139)
+8. [seeders generating dummy data](https://github.com/susanBuck/dwa15-fall2017/issues/139)
