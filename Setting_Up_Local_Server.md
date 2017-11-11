@@ -14,6 +14,8 @@
     
 6. [migrations](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/25_Migrations.md)
 
-7. [seeders class notes](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/29_Seeders.md)
+7. [Create Model](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/27_Eloquent.md)
 
-8. [seeders generating dummy data](https://github.com/susanBuck/dwa15-fall2017/issues/139)
+8. [seeders class notes](https://github.com/susanBuck/dwa15-fall2017/blob/master/03_Laravel/29_Seeders.md)
+
+9. [seeders generating dummy data](https://github.com/susanBuck/dwa15-fall2017/issues/139)
