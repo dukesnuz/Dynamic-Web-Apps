@@ -2,4 +2,4 @@
 2. [List of emoji markdown markup](https://gist.github.com/rxaviers/7360908)
 3. [Student's link to github dwa class work flow](https://github.com/susanBuck/dwa15-fall2017/issues/132)
 4. [Direct link to student's dwa workflows](https://docs.google.com/document/d/1Gx4TGVUzFm5ccPM7vKRlZxVGrmhnToI18m_GHK9Qzbs/edit)
-
+5. [More useful Laravel error output in command line](https://github.com/susanBuck/dwa15-fall2017/issues/203)
