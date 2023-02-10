@@ -1,6 +1,6 @@
 # Dynamic-Web-Apps
-My notes for Dynamic Web Applications Class
-Available commands:
+## My notes for Dynamic Web Applications Class
+### Available commands:
   about                                 Display basic information about your application
   clear-compiled                        Remove the compiled class file
   completion                            Dump the shell completion script
